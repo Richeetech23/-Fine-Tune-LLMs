@@ -1,0 +1,23 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Data & models
+data/
+models/
+*.h5
+*.pt
+*.ckpt
+*.pkl
+
+# Logs & temporary files
+logs/
+*.log
